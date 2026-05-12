@@ -1,0 +1,42 @@
+{
+  "businessName": "DeJune Global Ventures",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Engineering Excellence in Nigerian Manufacturing",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "DeJune Global Ventures - Your Partner in Quality Manufacturing. Located in Ado-Odo Ota, we deliver precision engineering and manufacturing solutions that power Nigerian industries forward. From concept to completion, we build what matters.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with large industrial building, clean architectural lines, Nigerian flag visible, sunset golden hour lighting, professional industrial photography, workers in safety gear walking towards entrance, lush greenery around facility, Ogun state industrial landscape",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "DeJune Global Ventures is a leading manufacturing company based in Ado-Odo Ota, Ogun State. We specialize in delivering high-quality manufacturing solutions that meet international standards while understanding the unique needs of the Nigerian market. Our state-of-the-art facility in Ayetoro combines modern technology with skilled craftsmanship to produce products that businesses and industries across Nigeria depend on. With a commitment to excellence, timely delivery, and customer satisfaction, we have established ourselves as a trusted manufacturing partner for companies seeking reliability and quality.",
+      "imagePrompt": "Interior of modern Nigerian manufacturing plant with organized production lines, Nigerian workers in blue uniforms and safety helmets operating precision machinery, bright overhead LED lighting, clean factory floor with quality control stations, ISO certification plaques on wall, professional industrial environment",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Services",
+      "copy": "Custom Manufacturing Solutions: Tailored production services designed to meet your specific requirements and industry standards.\n\nQuality Assurance & Control: Rigorous testing and inspection protocols ensure every product meets the highest quality benchmarks.\n\nProduct Development: From prototype to mass production, we work with you to bring your manufacturing vision to life.\n\nSupply Chain Management: Reliable sourcing and logistics coordination to keep your operations running smoothly.\n\nMaintenance & Support: Ongoing technical support and maintenance services to maximize your manufacturing efficiency.",
+      "imagePrompt": "Collage-style image showing various manufacturing processes: welding sparks in one corner, precision CNC machining in another, quality inspector with calipers checking product, forklift moving pallets of finished goods, all in a bright modern Nigerian factory setting with safety signage in English",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Get In Touch",
+      "copy": "Ready to discuss your manufacturing needs? DeJune Global Ventures is here to provide the solutions your business requires. Whether you need a quote, technical consultation, or want to visit our facility in Ayetoro, we're ready to serve you. Contact us today and experience the DeJune difference in Nigerian manufacturing excellence.",
+      "imagePrompt": "Professional Nigerian business meeting scene, diverse team of manufacturing professionals around conference table reviewing blueprints and product samples, large windows showing factory floor in background, handshake between client and manufacturer, warm professional lighting, Lagos-Ogun industrial corridor aesthetic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "07047374343",
+    "email": "info@dejuneglobal.com",
+    "address": "No. 5 Debo-Olanyika Street, Ayetoro, Ado-Odo Ota, Ogun State, Nigeria",
+    "whatsapp": "https://wa.me/2347047374343"
+  }
+}
